@@ -1,6 +1,6 @@
 # Nerfies
 
-This is the repository that contains source code for the [Nerfies website](https://nelahris.github.io).
+This is the repository that contains source code for the [Nerfies website](https://masterthesis_presentation.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
