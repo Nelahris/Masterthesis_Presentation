@@ -1,6 +1,6 @@
 # Nerfies
 
-This is the website page for my master thesis presentation powered by Nerfies.[Identification of Neurotransmitter-related fMRI Connectivity Profiles]([https://masterthesis_presentation.github.io](https://nelahris.github.io/Masterthesis_Presentation/)).
+This is the website page for my master thesis presentation powered by Nerfies.[Identification of Neurotransmitter-related fMRI Connectivity Profiles]((https://nelahris.github.io/Masterthesis_Presentation/)).
 
 If you find Nerfies useful for your work please cite:
 ```
