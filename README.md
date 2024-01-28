@@ -1,6 +1,7 @@
 # Nerfies
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This repository contains source code for my master thesis presetnation[Identification of Neurotransmitter-related fMRI Connectivity Profiles](https://nelahris.github.io/Masterthesis_Presentation/).
+Nerfies[https://nerfies.github.io] website was used as a template.
 
 If you find Nerfies useful for your work please cite:
 ```
